@@ -9,7 +9,6 @@ abstract class AppTheme {
       backgroundColor: Colors.black,
       selectedItemColor: Color(0xFF00BD13),
       unselectedItemColor: Color(0xFF52525E),
-
       // unselectedItemColor:
     ),
   );
